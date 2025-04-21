@@ -21,7 +21,7 @@ The second session was a hands-on workshop on Building on Bitcoin with the Bitno
 - LN Address Info : Get more about your LN address by going to {domain}/.well-known/lnurlp/{username}. Ex : https://walletofsatoshi.com/.well-known/lnurlp/{username} or going to Amboss [Lightning Decoder](https://amboss.space/lightning-decoder)
 - Lightning Network : Get Lightning Network statistics on [(https://amboss.space/](https://amboss.space/)
 - Bitnob API : Read more about [Bitnob API](https://docs.bitnob.com/docs/getting-started) and get a [Sandbox](https://sandboxapp.bitnob.co/accounts/signin) account to build on Testnet with the API
-- Bitnob API Workshop : Find [here the code source](https://github.com/bitdevscotonou/Socratic-Seminar-2/tree/main/bitnob-api-workshop) of the app we built at the workshop
+- Bitnob API Workshop : Find [here the code source](https://github.com/bitdevscotonou/Socratic-Seminar-2/tree/main/bitnob-api-workshop) of the app we built at the workshop and [HERE](https://github.com/Block67/bitdev-cotonou-presence) for another project we could use at the next Meetup
 
 ## Next Step
 
