@@ -1,8 +1,8 @@
-# Socratic-Seminar-4
+# Socratic-Seminar-5
 
 ## Event Details:
 
-- Date and Time: June 26tht, 2025
+- Date and Time: June 26th, 2025
 - Location: SOROC, Cotonou, Benin
 - Organized by: Alphonse, Loïc & Samadou
 - Registration link: https://lu.ma/wh6280cp
