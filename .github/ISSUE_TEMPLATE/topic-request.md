@@ -3,7 +3,10 @@ name: Topic Request for Bitdevs
 about: Propositions de thématique Bitdevs.
 title: "topic: [Topic title]"
 labels: topics
-assignees: ['heyolaniran','mehounme','block67']
+assignees:
+    - heyolaniran
+    - AlphonseMehounme
+    - block67
 ---
 
 ## Topic details
