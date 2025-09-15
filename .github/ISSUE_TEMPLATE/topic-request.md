@@ -2,7 +2,7 @@
 name: Topic Request for Bitdevs
 about: Propositions de thématique Bitdevs.
 title: "topic: [Topic title]"
-labels: topics
+labels: topic
 assignees:
     - heyolaniran
     - AlphonseMehounme
