@@ -3,7 +3,7 @@ name: Git as Collaborative Tools for Bitcoin Open Source Software
 description: Onboard to Git and GitHub and learn how they work in collaborative Open Source Projects
 ---
 
-**Topic:** [#1](https://github.com/BitDevsCotonou/Socratic-Seminar-Reports/issues/1)
+**Topic:** [#1](https://github.com/BitDevsCotonou/Socratic-Seminar-Reports/issues/10)
 
 **Lead Facilitators:**
 - @heyolaniran
